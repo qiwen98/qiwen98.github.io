@@ -19,7 +19,8 @@ redirect_from:
 ## Projects
 ### Web IR Projects 
 [Video Time Machine ⏲](https://share.streamlit.io/qiwen98/webir/main.py/).
-\This is an Video Search Engine which allow user to query specific words/phrase throughout the video and get the timestamp/s result instantly. Powered by Automatic Speech Regconition (ASR) Deep Learning Model. This project won the 4th place out of 21 projects.
+\This is an Video Search Engine which allow user to query specific words/phrase throughout the video and get the timestamp/s result instantly. Powered by Automatic Speech Regconition (ASR) Deep Learning Model. 
+\This project won the 4th place out of 21 projects.
 
 ### Stegano M Visualizer  
 [Stegano M Visualizer](https://github.com/qiwen98/Stegano_M_Vis).
