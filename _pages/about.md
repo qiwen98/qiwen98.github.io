@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am currently a Master student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/).
+* I am currently a Master student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/).
 * I am a Developer, Audio guided 3D Vision Researcher, Deep Learning practitioner & 3d modeler
 * My research interests lie in the general area of machine learning, particularly in deep learning, Computer Vision, Audio guided 3D Vision, Audio Visual, Acoustic, Sound, and Music
 * I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). I was awarded "Distinction" with top 10% of the best students in the programme (In place of, 1st Class Honours degree). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
