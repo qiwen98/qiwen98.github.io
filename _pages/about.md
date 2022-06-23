@@ -24,6 +24,6 @@ redirect_from:
 * This project won the 4th place out of 21 projects during 2022 Spring Web IR courses Final Competition.
 
 ### Stegano M Visualizer  
-[Stegano M Visualizer](https://github.com/qiwen98/Stegano_M_Vis)
-* This is an custom Mocap BVH format visualizer with json file. Mainly used for research purpose.
+[Stegano M Visualizer](https://qiwen98.github.io/Stegano_M_Vis/)
+* This is an custom Mocap BVH format visualizer with json file. Written in Three.js, mainly used for research purpose.
 
