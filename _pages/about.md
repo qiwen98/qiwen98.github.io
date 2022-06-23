@@ -18,12 +18,12 @@ redirect_from:
 
 
 ## Projects
-### Web IR Projects 
+### Web IR Search Engiene
 [Video Time Machine ⏲](https://share.streamlit.io/qiwen98/webir/main.py/)
-* This is an Video Search Engine which allow user to query specific words/phrase throughout the video and get the timestamp/s result instantly. Powered by Automatic Speech Regconition (ASR) Deep Learning Model. 
+* This is an Youtube-liked Video Search Engine which allow user to query specific words/phrase throughout the video and get the timestamp/s result instantly. Powered by Automatic Speech Regconition (ASR) Deep Learning Model. 
 * This project won the 4th place out of 21 projects during 2022 Spring Web IR courses Final Competition.
 
-### Stegano M Visualizer  
+### Stegano M 3D Mocap Visualizer  
 [Stegano M Visualizer](https://qiwen98.github.io/Stegano_M_Vis/)
 * This is an custom Mocap BVH format visualizer with json file. Written in Three.js, mainly used for research purpose.
 
