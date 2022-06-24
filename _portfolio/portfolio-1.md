@@ -4,4 +4,4 @@ excerpt: "This portfolio included all my works throughout my bachelor degree lif
 collection: portfolio
 ---
 
-* Here are my degree works [Degree Portfolio](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio") in PDF format.
+Here are my degree works [Degree Portfolio](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio") in PDF format.
