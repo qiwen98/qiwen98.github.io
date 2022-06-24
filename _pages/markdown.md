@@ -118,7 +118,7 @@ Do It Live
 
 ## Buttons
 
-Make any link standout more when applying the `.btn` class.
+Make any link standout more when applying the `.btn` `class.btn`.
 
 ## Notices
 
