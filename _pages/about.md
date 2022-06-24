@@ -13,13 +13,13 @@ redirect_from:
 * I am a Developer, Audio guided 3D Vision Researcher, Deep Learning practitioner & 3d modeler
 * My research interests lie in the general area of machine learning, particularly in deep learning, Computer Vision, Audio guided 3D Vision, Audio Visual, Acoustic, Sound, and Music
 * I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
-* I was awarded **"Distinction"** with top 10% of the best students in the programme (In place of, 1st Class Honours degree). 
+* I was awarded **"Distinction"** with top 10% of the best students in the programme (`In place of, 1st Class Honours degree`). 
 * Here are my degree works [Degree Portfolio](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio").
 
 
 ## Projects
 ### Web IR Search Engine
-[Video Time Machine ⏲.btn](https://share.streamlit.io/qiwen98/webir/main.py/)
+[`Video Time Machine ⏲`](https://share.streamlit.io/qiwen98/webir/main.py/)
 * This is an Youtube-liked Video Search Engine which allow user to query specific words/phrase throughout the video and get the timestamp/s result instantly. Powered by Automatic Speech Regconition (ASR) Deep Learning Model. 
 * This project won the **4th place** out of **21 projects** during 2022 Spring Web IR courses final competition.
 
