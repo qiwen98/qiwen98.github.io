@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Digital Media Technology, Xiamen University, 2017 (Top 10% student within programme)
+* B.E. in Digital Media Technology, Xiamen University, 2017 (Top 10% student within programme)
 * M.S. in Advanced Computing, Tsinghua University, 2021
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
@@ -23,7 +23,7 @@ Work experience
   * Supervisor: Professor Wei Chuen Yau
 
 * Winter 2022: Research Fellow 
-  * Tsinghua University
+  * Tsinghua University Multimedia Lab
   * Duties included: Leading Sound Event Detection (SED) portion in an AI broadcasting project
   * Supervisor: Professor JiangTao Wen
   
