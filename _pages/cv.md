@@ -27,14 +27,13 @@ Work experience
   * Duties included: Leading Sound Event Detection (SED) portion in an AI broadcasting project
   * Supervisor: Professor JiangTao Wen
   
-<!-- Skills
+Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Proficient and Experienced in popular Game Engine such as Unreal and Unity
+* Proficient in Several 3D industry software:
+  * Autodesk Maya
+  * Autodesk 3D Max
+  * Blender
 
 Publications
 ======
