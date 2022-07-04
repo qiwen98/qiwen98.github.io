@@ -30,7 +30,7 @@ Work experience
 Skills
 ======
 * Proficient and Experienced in popular Game Engine such as Unreal and Unity
-* Proficient in Several 3D industry software:
+* Proficient in several 3D industry software:
   * Autodesk Maya
   * Autodesk 3D Max
   * Blender
