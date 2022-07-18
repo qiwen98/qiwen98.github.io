@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.E. in Digital Media Technology, Xiamen University, 2017 (Top 10% student within programme)
-* M.S. in Advanced Computing, Tsinghua University, 2021
+* B.E. in Digital Media Technology, Xiamen University, 2017~2021 (Top 10% student within programme)
+* M.S. in Advanced Computing, Tsinghua University, 2021~present
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
