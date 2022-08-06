@@ -15,7 +15,7 @@ redirect_from:
 * I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
 > I was awarded **"Distinction"** with top 10% of the best students in the programme (In place of, **1st Class** Honours degree). 
 * Here are my Bachelor degree works [Degree Portfolio](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio")(last update Jan 2021) in PDF format.
-<!-- * Here are my full CV [CV](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "CV")(last update July 2022) in PDF format. -->
+* Here are my full CV [CV](https://qiwen98.github.io/files/Qi_Wen_R_sum_temp.pdf "CV")(last update July 2022) in PDF format.
 
 * For more personal achievement, please refer to my linkedin.
 
