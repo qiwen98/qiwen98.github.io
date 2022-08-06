@@ -20,7 +20,7 @@ redirect_from:
 
 * Here are my Bachelor degree works [Degree Portfolio](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021) in PDF format.
 
-* Here are my full [CV](https://qiwen98.github.io/files/Qi_Wen_R_sum_temp.pdf "CV ")(last update July 2022) in PDF format.
+* Here are my full [CV](https://qiwen98.github.io/files/Qi_Wen_Resume_temp.pdf "CV ")(last update July 2022) in PDF format.
 
 * For more personal achievement, please refer to my linkedin.
 
