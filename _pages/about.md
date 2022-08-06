@@ -10,11 +10,16 @@ redirect_from:
 
 ## About Me
 * I am currently a Master student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year).
+
 * I am a Developer, 3D Vision Researcher, Deep Learning practitioner & 3d modeler.
+
 * My research interests lie in the general area of Machine Learning, particularly in Deep Learning, Computer Vision, 3D Vision, Audio Visual Learning, Acoustic, Sound, and Music
+
 * I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
 > I was awarded **"Distinction"** with top 10% of the best students in the programme (In place of, **1st Class** Honours degree). 
+
 * Here are my Bachelor degree works [Degree Portfolio](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021) in PDF format.
+
 * Here are my full [CV](https://qiwen98.github.io/files/Qi_Wen_R_sum_temp.pdf "CV ")(last update July 2022) in PDF format.
 
 * For more personal achievement, please refer to my linkedin.
