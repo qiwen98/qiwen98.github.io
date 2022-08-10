@@ -13,14 +13,14 @@ redirect_from:
 
 * I am a Developer, 3D Vision Researcher, Deep Learning practitioner & 3d modeler.
 
-* My research interests lie in the general area of Machine Learning, particularly in Deep Learning, Computer Vision, 3D Vision, Audio Visual Learning, Acoustic, Sound, and Music
+* My research interests lie in the general area of Machine Learning, particularly in Deep Learning, Computer Vision, 3D Vision/Graphics, Audio Visual Learning (Acoustic & Sound)
 
 * I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
 > I was awarded **"Distinction"** with top 10% of the best students in the programme (In place of, **1st Class** Honours degree). 
 
-* Here are my Bachelor degree works [Degree Portfolio](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021) in PDF format.
+* Here is my Bachelor degree portfolio [Degree Portfolio](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021) in PDF format.
 
-* Here are my full [CV](https://qiwen98.github.io/files/Qi_Wen_Resume_temp.pdf "CV ")(last update July 2022) in PDF format.
+* Here is my full [CV](https://qiwen98.github.io/files/Qi_Wen_Resume_temp.pdf "CV ")(last update July 2022) in PDF format.
 
 * For more personal achievement, please refer to my linkedin.
 
