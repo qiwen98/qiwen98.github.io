@@ -9,6 +9,7 @@ redirect_from:
 ---
 * I am actively looking for a PhD position starting from fall 2023, feel free to reach me via email.
 
+## About Me
 I was born in Johor Bahru, Malaysia, a city blessed with multicultural food, people, and society. This lovely city is closely developed with its neighbor, Singapore.
 I am a developer, 3D vision researcher, deep learning practitioner, and 3D modeler. I enjoy swimming and long-distance running, which I usually do three times per week. Additionally, I also enjoy team sports such as football, frisbee, and badminton. I am also a drummer and create "beats" using FL Studio.
 ## Academic Profile
