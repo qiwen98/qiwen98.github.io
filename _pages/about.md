@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-### Hobbies and Skills
-## I enjoyed swimming, long-distance running and I usually do them three times per week. I also enjoyed team sports like football and badminton. 
-## I am a drummer and I create "beats" using FL studio. 
+## Hobbies and Skills
+### I enjoyed swimming, long-distance running and I usually do them three times per week. I also enjoyed team sports like football, frisbee, and badminton. 
+### I am a drummer and I create "beats" using FL studio. 
 
 * I am actively looking for a PhD position starting from fall 2023, feel free to reach me via email.
 ## About Me
