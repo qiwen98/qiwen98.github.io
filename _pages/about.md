@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-### I am actively looking for a PhD position starting from fall 2023, feel free to reach me via email.
+
+### Hobbies and Skills
+## I enjoyed swimming, long-distance running and I usually do them three times per week. I also enjoyed team sports like football and badminton. 
+## I am a drummer and I create "beats" using FL studio. 
+
+* I am actively looking for a PhD position starting from fall 2023, feel free to reach me via email.
 ## About Me
 * I am currently a Master student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year).
 
