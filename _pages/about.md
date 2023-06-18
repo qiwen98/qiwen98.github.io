@@ -7,16 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
-
 * I am actively looking for a PhD position starting from fall 2023, feel free to reach me via email.
-## About Me
+
 I was born in Johor Bahru, Malaysia, a city blessed with multicultural food, people, and society. This lovely city is closely developed with its neighbor, Singapore.
 I am a developer, 3D vision researcher, deep learning practitioner, and 3D modeler. I enjoy swimming and long-distance running, which I usually do three times per week. Additionally, I also enjoy team sports such as football, frisbee, and badminton. I am also a drummer and create "beats" using FL Studio.
-
-
 ## Academic Profile
 * I am currently a Master student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year). My research interests lie in the general area of Machine Learning, particularly in Deep Learning, Computer Vision, 3D Vision/Graphics, Audio Visual Learning (Acoustic & Sound)I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
 > I was awarded **"Distinction"** with top 10% of the best students in the programme (In place of, **1st Class** Honours degree). 
