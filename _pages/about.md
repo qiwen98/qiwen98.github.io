@@ -39,3 +39,6 @@ I am a developer, 3D vision researcher, deep learning practitioner, and 3D model
 [D Stegano M Visualizer](https://qiwen98.github.io/DSteganoM/skipMTMGatedCover/)
 * This is an custom Mocap BVH format visualizer with json file. Written in Three.js, mainly used for research purpose.
 
+### Fast indoor and outdoor content synthesis in Unreal  
+[Unreal scene generator](https://qiwen98.github.io/DSteganoM/skipMTMGatedCover/)
+* This is an fun side project I was done along with my master's study. The purpose is to study human perception of vision, visual, and graphic in VR.
