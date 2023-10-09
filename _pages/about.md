@@ -18,9 +18,15 @@ I am a developer, 3D vision researcher, deep learning practitioner, and 3D model
 
 * Here is my Bachelor degree portfolio [Degree Portfolio ](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021) in PDF format.
 
-* Here is my full [CV ](https://qiwen98.github.io/files/QI_WEN_GAN_CV.pdf "CV ")(last update Dec 2022) in PDF format.
+* Here is my full [CV ](https://qiwen98.github.io/files/Qi_Wen_Résumé_With_Photo.pdf "CV ")(last update Dec 2022) in PDF format.
 
 * For more personal achievement, please refer to my linkedin.
+
+## Publications
+### DSteganoM: Deep Steganography for Motion Capture Data
+[Project Page](https://qiwen98.github.io/DSteganoM)
+Elsevier Expert Systems With Applications 
+Qi Wen, G., Wei-Chuen, Y., Yee-Siang., G., Iftekhar, S., Shihui, G., Chin-Chen, C., Yubing, W., & Luchen, Z. (2022). DSteganoM: Deep Steganography for Motion Capture Data.
 
 
 
