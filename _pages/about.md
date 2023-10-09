@@ -25,9 +25,8 @@ I am a developer, 3D vision researcher, deep learning practitioner, and 3D model
 ## Publications
 ### DSteganoM: Deep Steganography for Motion Capture Data
 [Project Page](https://qiwen98.github.io/DSteganoM)
-
-Elsevier Expert Systems With Applications 
-Qi Wen, G., Wei-Chuen, Y., Yee-Siang., G., Iftekhar, S., Shihui, G., Chin-Chen, C., Yubing, W., & Luchen, Z. (2022). DSteganoM: Deep Steganography for Motion Capture Data.
+* Elsevier Expert Systems With Applications 
+* Qi Wen, G., Wei-Chuen, Y., Yee-Siang., G., Iftekhar, S., Shihui, G., Chin-Chen, C., Yubing, W., & Luchen, Z. (2022). DSteganoM: Deep Steganography for Motion Capture Data.
 
 
 
