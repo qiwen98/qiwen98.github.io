@@ -17,14 +17,16 @@ Publications
 ------
 <div class="media">
                 <a class="pull-left">
-                    <img class="media-object" src="./images/DStegMFullArchitecture.png" width="250px">
+                    <img class="media-object" src="./images/DStegMFullArchitecture.png" width="275px">
                 </a>
                 <div class="media-body">
                     <p class="media-heading">
                         <strong>
                              DSteganoM: Deep Steganography for Motion Capture Data
                      </strong><br>
-                        <strong>Qi Wen Gan</strong>,  Wei-Chuen Yau, Y.S. Gan, Iftekhar Salam, Shihui Guo, Chin-Chen Chang, Yubing Wu, Luchen Zhou<strong><i>Journal Expert Systems With Applications, 2023.</i></strong>
+                        <strong>Qi Wen Gan</strong>
+						,  Wei-Chuen Yau, Y.S. Gan, Iftekhar Salam, Shihui Guo, Chin-Chen Chang, Yubing Wu, Luchen Zhou<br>
+						<strong><i>Journal Expert Systems With Applications, 2023.</i></strong>
                         <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0957417423024570">[pdf]</a>
                         <a target="_blank" href="https://qiwen98.github.io/DSteganoM">[Project Page]</a>
                     </p>
