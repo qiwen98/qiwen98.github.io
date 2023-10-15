@@ -17,7 +17,7 @@ Publications
 ------
 <div class="media">
                 <a class="pull-left">
-                    <img class="media-object" src="./assets_files/megane.gif" width="300px">
+                    <img class="media-object" src="./images/bio-photo.jpg" width="300px">
                 </a>
                 <div class="media-body">
                     <p class="media-heading">
@@ -35,7 +35,7 @@ Publications
                     </p>
                 </div>
             </div>
-			
+
 * **[DSteganoM: Deep Steganography for Motion Capture Data](https://qiwen98.github.io/DSteganoM)**
 	* **Qi Wen, G.**, Wei-Chuen, Y., Yee-Siang., G., Iftekhar, S., Shihui, G., Chin-Chen, C., Yubing, W., & Luchen, Z
 	* Journal Expert Systems With Applications, 2023
