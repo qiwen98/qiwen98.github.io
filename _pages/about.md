@@ -17,7 +17,7 @@ Publications
 ------
 <div class="media">
                 <a class="pull-left">
-                    <img class="media-object" src="./images/bio-photo.jpg" width="300px">
+                    <img class="media-object" src="./images/bio-photo.jpg" width="250px">
                 </a>
                 <div class="media-body">
                     <p class="media-heading">
