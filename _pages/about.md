@@ -26,7 +26,7 @@ I am a developer, 3D vision researcher, deep learning practitioner, and 3D model
 * **[DSteganoM: Deep Steganography for Motion Capture Data](https://qiwen98.github.io/DSteganoM)**
 	* **Qi Wen, G.**, Wei-Chuen, Y., Yee-Siang., G., Iftekhar, S., Shihui, G., Chin-Chen, C., Yubing, W., & Luchen, Z
 	* Journal Expert Systems With Applications, 2023
-	* [Project](https://qiwen98.github.io/DSteganoM), [Paper](), [Code]()
+	* [Project](https://qiwen98.github.io/DSteganoM), [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423024570), [Code](https://github.com/qiwen98/DSteganoM-Exp)
 
 
 
