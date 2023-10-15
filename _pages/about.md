@@ -17,29 +17,20 @@ Publications
 ------
 <div class="media">
                 <a class="pull-left">
-                    <img class="media-object" src="./images/bio-photo.jpg" width="250px">
+                    <img class="media-object" src="./images/DStegMFullArchitecture.png" width="250px">
                 </a>
                 <div class="media-body">
                     <p class="media-heading">
                         <strong>
-                             MEGANE: Morphable Eyeglass and Avatar Network
+                             DSteganoM: Deep Steganography for Motion Capture Data
                      </strong><br>
-                        <strong>Junxuan Li</strong>, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Hongdong Li, and Jason Saragih. <strong><i>CVPR 2023.</i></strong>
-                        <a target="_blank" href="https://arxiv.org/abs/2302.04868">[pdf]</a>
-                        <a target="_blank" href="https://junxuan-li.github.io/megane/">[Project Page]</a>
-                    </p>
-                    <p class="abstract-text">
-                        We propose a 3D compositional morphable model of eyeglasses that accurately incorporates high-fidelity geometric and photometric interaction effects.<br>
-                        We employ a hybrid representation that combines surface geometry and a volumetric representation to enable modification of geometry, lens insertion and frame deformation.<br>
-                        Our model is relightable under point lights and natural illumination, which can synthesize casting shadows between faces and glasses.
+                        <strong>Qi Wen Gan</strong>,  Wei-Chuen Yau, Y.S. Gan, Iftekhar Salam, Shihui Guo, Chin-Chen Chang, Yubing Wu, Luchen Zhou<strong><i>Journal Expert Systems With Applications, 2023.</i></strong>
+                        <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0957417423024570">[pdf]</a>
+                        <a target="_blank" href="https://qiwen98.github.io/DSteganoM">[Project Page]</a>
                     </p>
                 </div>
             </div>
 
-* **[DSteganoM: Deep Steganography for Motion Capture Data](https://qiwen98.github.io/DSteganoM)**
-	* **Qi Wen, G.**, Wei-Chuen, Y., Yee-Siang., G., Iftekhar, S., Shihui, G., Chin-Chen, C., Yubing, W., & Luchen, Z
-	* Journal Expert Systems With Applications, 2023
-	* [Project](https://qiwen98.github.io/DSteganoM), [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423024570), [Code](https://github.com/qiwen98/DSteganoM-Exp)
 
 Academic Profile
 ------
