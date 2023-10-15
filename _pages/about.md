@@ -13,6 +13,34 @@ About Me
 I was born in Johor Bahru, Malaysia, a city blessed with multicultural food, people, and society. This lovely city is closely developed with its neighbor, Singapore.
 I am a developer, 3D vision researcher, deep learning practitioner, and 3D modeler.
 
+Publications
+------
+<div class="media">
+                <a class="pull-left">
+                    <img class="media-object" src="./assets_files/megane.gif" width="300px">
+                </a>
+                <div class="media-body">
+                    <p class="media-heading">
+                        <strong>
+                             MEGANE: Morphable Eyeglass and Avatar Network
+                     </strong><br>
+                        <strong>Junxuan Li</strong>, Shunsuke Saito, Tomas Simon, Stephen Lombardi, Hongdong Li, and Jason Saragih. <strong><i>CVPR 2023.</i></strong>
+                        <a target="_blank" href="https://arxiv.org/abs/2302.04868">[pdf]</a>
+                        <a target="_blank" href="https://junxuan-li.github.io/megane/">[Project Page]</a>
+                    </p>
+                    <p class="abstract-text">
+                        We propose a 3D compositional morphable model of eyeglasses that accurately incorporates high-fidelity geometric and photometric interaction effects.<br>
+                        We employ a hybrid representation that combines surface geometry and a volumetric representation to enable modification of geometry, lens insertion and frame deformation.<br>
+                        Our model is relightable under point lights and natural illumination, which can synthesize casting shadows between faces and glasses.
+                    </p>
+                </div>
+            </div>
+			
+* **[DSteganoM: Deep Steganography for Motion Capture Data](https://qiwen98.github.io/DSteganoM)**
+	* **Qi Wen, G.**, Wei-Chuen, Y., Yee-Siang., G., Iftekhar, S., Shihui, G., Chin-Chen, C., Yubing, W., & Luchen, Z
+	* Journal Expert Systems With Applications, 2023
+	* [Project](https://qiwen98.github.io/DSteganoM), [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423024570), [Code](https://github.com/qiwen98/DSteganoM-Exp)
+
 Academic Profile
 ------
 * I am a graduated Master student in the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year). My research interests lie in the general area of Machine Learning, particularly in Deep Learning, Computer Vision, 3D Vision/Graphics, Audio Visual Learning (Acoustic & Sound). I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
@@ -24,19 +52,7 @@ Academic Profile
 
 * For more personal achievement, please refer to my linkedin.
 
-Publications
-------
-  <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
-  </div>
-* **[DSteganoM: Deep Steganography for Motion Capture Data](https://qiwen98.github.io/DSteganoM)**
-	* **Qi Wen, G.**, Wei-Chuen, Y., Yee-Siang., G., Iftekhar, S., Shihui, G., Chin-Chen, C., Yubing, W., & Luchen, Z
-	* Journal Expert Systems With Applications, 2023
-	* [Project](https://qiwen98.github.io/DSteganoM), [Paper](https://www.sciencedirect.com/science/article/pii/S0957417423024570), [Code](https://github.com/qiwen98/DSteganoM-Exp)
+
 
 
 
