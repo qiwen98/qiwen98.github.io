@@ -11,7 +11,7 @@ redirect_from:
 About Me
 ------
 I was born in Johor Bahru, Malaysia, a city blessed with multicultural food, people, and society. This lovely city is closely developed with its neighbor, Singapore.
-I am a developer, 3D vision researcher and 3D modeler.
+I am a developer, 3D graphic researcher, AR/VR enthusiast and 3D modeler.
 
 Publications
 ------
