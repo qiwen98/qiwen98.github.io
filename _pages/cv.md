@@ -19,12 +19,12 @@ Work experience
 ======
 * Summer 2020: Research Assistant
   * Xiamen University Malaysia
-  * Duties included: Leading a funded Neural Staganography project 
+  * Duties included: Leading a funded Motion Capture Staganography project 
   * Supervisor: Professor Wei-Chuen Yau
 
 * Winter 2022: Research Fellow 
   * Tsinghua University Multimedia Lab
-  * Duties included: Leading Sound Event Detection (SED) portion in an AI broadcasting project
+  * Duties included: Contributing to a Sound Event Detection (SED) function in an musical broadcasting project
   * Supervisor: Professor JiangTao Wen
   
 Skills
