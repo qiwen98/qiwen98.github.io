@@ -17,6 +17,40 @@ Publications
 ------
 <div class="media">
                 <a class="pull-left">
+                    <img class="media-object" src="./images/ACM_VRST_EXPERIMENT_PROCEDURE.PNG" width="275px">
+                </a>
+                <div class="media-body">
+                    <p class="media-heading">
+                        <strong>
+                             Exploring the Impact of Scene Visual Characteristics and Adaptation Effects on Rotation Gain Perception in VR
+                     </strong><br>
+                        <strong>Qi Wen Gan</strong>
+						Sen-Zhe Xu; Fang-Lue Zhang; Song-Hai Zhang<br>
+						<strong><i>（ACM VRST) Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology, 2024.</i></strong>
+                        <!-- <a target="_blank" href="https://ieeexplore.ieee.org/document/10536471">[pdf]</a> -->
+                    </p>
+                </div>
+            </div>
+
+<div class="media">
+                <a class="pull-left">
+                    <img class="media-object" src="./images/Experiment_Procedure.png" width="275px">
+                </a>
+                <div class="media-body">
+                    <p class="media-heading">
+                        <strong>
+                             Effects of Scene Visual Characteristics on the Perception of Rotation Gains
+                     </strong><br>
+                        <strong>Qi Wen Gan</strong>
+						Sen-Zhe Xu; Ran Gong; Fang-Lue Zhang; Song-Hai Zhang<br>
+						<strong><i>（IEEE VR) IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2024.</i></strong>
+                        <a target="_blank" href="https://ieeexplore.ieee.org/document/10536471">[pdf]</a>
+                    </p>
+                </div>
+            </div>
+
+<div class="media">
+                <a class="pull-left">
                     <img class="media-object" src="./images/DStegMFullArchitecture.png" width="275px">
                 </a>
                 <div class="media-body">
