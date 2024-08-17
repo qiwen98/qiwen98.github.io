@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-About Me
 ------
 I was born in Johor Bahru, Malaysia, a city blessed with multicultural food, people, and society. This lovely city is closely developed with its neighbor, Singapore. I am a storyteller, researcher, AR/VR enthusiast. I manipulate image pixels directly from u_int8 buffers. 
 
@@ -24,8 +22,8 @@ Publications
                              Exploring the Impact of Scene Visual Characteristics and Adaptation Effects on Rotation Gain Perception in VR
                      </strong><br>
                         <strong>Qi Wen Gan</strong>
-						Sen-Zhe Xu, Fang-Lue Zhang, Song-Hai Zhang<br>
-						<i><strong>(ACM VRST)</strong>Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology, 2024.</i>
+						, Sen-Zhe Xu, Fang-Lue Zhang, Song-Hai Zhang<br>
+						<i><strong>(ACM VRST)</strong> Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology, 2024.</i>
                         <!-- <a target="_blank" href="https://ieeexplore.ieee.org/document/10536471">[pdf]</a> -->
                     </p>
                 </div>
