@@ -25,7 +25,7 @@ Publications
                      </strong><br>
                         <strong>Qi Wen Gan</strong>
 						Sen-Zhe Xu, Fang-Lue Zhang, Song-Hai Zhang<br>
-						<i>（ACM VRST) Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology, 2024.</i>
+						<i><strong>(ACM VRST)</strong>Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology, 2024.</i>
                         <!-- <a target="_blank" href="https://ieeexplore.ieee.org/document/10536471">[pdf]</a> -->
                     </p>
                 </div>
@@ -42,8 +42,8 @@ Publications
                      </strong><br>
                         <strong>Qi Wen Gan</strong>
 						, Sen-Zhe Xu, Ran Gong, Fang-Lue Zhang, Song-Hai Zhang<br>
-						<i>（IEEE VR) IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2024.</i>
-                        <a target="_blank" href="https://ieeexplore.ieee.org/document/10536471">[pdf]</a>
+						<i><strong>(IEEE VR)</strong> IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 2024.</i>
+                        <a target="_blank" href="https://ieeexplore.ieee.org/document/10536471">[link]</a>
                     </p>
                 </div>
             </div>
@@ -60,7 +60,8 @@ Publications
                         <strong>Qi Wen Gan</strong>
 						, Wei-Chuen Yau, Y.S. Gan, Iftekhar Salam, Shihui Guo, Chin-Chen Chang, Yubing Wu, Luchen Zhou<br>
 						<i>Journal Expert Systems With Applications, 2023.</i>
-                        <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0957417423024570">[pdf]</a>
+                        <a target="_blank" href="https://www.sciencedirect.com/science/article/pii/S0957417423024570">[link1]</a>
+                        <a target="_blank" href="https://dl.acm.org/doi/10.1016/j.eswa.2023.121955">[link2]</a>
                         <a target="_blank" href="https://qiwen98.github.io/DSteganoM">[Project Page]</a>
                     </p>
                 </div>
