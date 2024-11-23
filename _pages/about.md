@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<div class="publication-card">
 I was born in Johor Bahru, Malaysia, a city blessed with multicultural food, people, and society. This lovely city is closely developed with its neighbor, Singapore. I am a storyteller, researcher, AR/VR enthusiast. I manipulate image pixels directly from u_int8 buffers. 
+</div>
 
-Publications
+## Publications
 
 
 <div class="publication-card">
@@ -70,17 +72,20 @@ Publications
     </div>
 
 
-Academic Profile
-
+## Academic Profile
+<div class="publication-card">
 I graduated with a Master's degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year). My research interests lie in the general area of Multimedia, particularly in 3D Graphics, AR/VR, and Visual Signal Processing. I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
 > I was awarded **"Distinction"** with top 10% of the best students in the programme (In place of, **1st Class** Honours degree). 
 
 Here is my my full [CV ](https://qiwen98.github.io/files/Qi_Wen_CV_With_No_Photo_latest.pdf "CV ")(last update November 2024) in PDF format. Bachelor degree portfolio [Degree Portfolio ](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021). For more personal achievement, please refer to my linkedin.
+</div>
 
 ## Professional Services
+<div class="publication-card">
 Conference Reviewer: IEEE ISMAR 2024 Journal & Conference Track
 
 Conference Reviewer: IEEE VR 2024
+</div>
 
 
 <!-- ## Projects
