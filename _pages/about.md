@@ -12,7 +12,8 @@ I was born in Johor Bahru, Malaysia, a city blessed with multicultural food, peo
 
 Publications
 ------
-    <div class="publication-card">
+
+<div class="publication-card">
         <div class="publication-image">
             <img src="./images/ACM_VRST_EXPERIMENT_PROCEDURE.PNG" alt="VR Experiment Procedure">
         </div>
@@ -76,7 +77,7 @@ I graduated with a Master's degree from the [Department of Computer Science and 
 
 Here is my Bachelor degree portfolio [Degree Portfolio ](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021) in PDF format, my full [CV ](https://qiwen98.github.io/files/Qi_Wen_CV_With_No_Photo_latest.pdf "CV ")(last update November 2024) in PDF format. For more personal achievement, please refer to my linkedin.
 
-## Professioal Services
+## Professional Services
 Conference Reviewer: IEEE ISMAR 2024 Journal & Conference Track
 Conference Reviewer: IEEE VR 2024
 
