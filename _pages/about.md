@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="publication-card">
-I was born in Johor Bahru, Malaysia, a city blessed with multicultural food, people, and society. This lovely city is closely developed with its neighbor, Singapore. I am a storyteller, researcher, AR/VR enthusiast. I manipulate image pixels directly from u_int8 buffers. 
+I was born and raised in Johor Bahru, Malaysia, a city blessed with multicultural food and people. This lovely city is closely developed with its neighbor, Singapore. I am a storyteller, researcher, AR/VR enthusiast. In my day to day routine, I always find myself manipulate image pixels directly from u_int8 buffers. 
 </div>
 
 ## Publications
