@@ -93,6 +93,9 @@ Conference Reviewer: IEEE VR 2024
         <div class="intro-image">
             <img src="./images/experimental_setup.Jpeg" alt="Johor Bahru City">
         </div>
+        <div class="intro-image">
+            <img src="./images/cool_idea.JPEG" alt="cool">
+        </div>
     </div>
 </div>
 <!-- ## Projects
