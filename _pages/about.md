@@ -11,9 +11,6 @@ redirect_from:
 <div class="publication-card intro-card">
     <div class="publication-content">
         <p>I was born and raised in Johor Bahru, Malaysia, a city blessed with multicultural food and people. This lovely city is closely developed with its neighbor, Singapore. I am a storyteller, researcher, AR/VR enthusiast. In my day to day routine, I always find myself manipulate image pixels directly from u_int8 buffers.</p>
-        <div class="intro-image">
-            <img src="./images/experimental_setup.Jpeg" alt="Johor Bahru City">
-        </div>
     </div>
 </div>
 
@@ -91,7 +88,13 @@ Conference Reviewer: IEEE ISMAR 2024 Journal & Conference Track
 Conference Reviewer: IEEE VR 2024
 </div>
 
-
+<div class="publication-card intro-card">
+    <div class="publication-content">
+        <div class="intro-image">
+            <img src="./images/experimental_setup.Jpeg" alt="Johor Bahru City">
+        </div>
+    </div>
+</div>
 <!-- ## Projects
 ### Web IR Search Engine
 [Video Time Machine ⏲](https://share.streamlit.io/qiwen98/webir/main.py/)
