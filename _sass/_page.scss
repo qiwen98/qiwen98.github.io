@@ -412,128 +412,117 @@
 }
 /* publication css*/
 /* Reset and enforce publication card styles */
+/* Publication card base */
 .page__content .publication-card {
   display: flex;
-  gap: 24px;
-  background-color: #ffffff !important; /* Force background color */
-  border: 1px solid #e5e7eb !important; /* Force border */
-  border-radius: 8px !important;
-  padding: 24px !important;
-  margin-bottom: 24px !important;
-  position: relative;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px,
-              rgba(0, 0, 0, 0.05) 0px 1px 2px !important;
-  transition: transform 0.2s ease-in-out,
-              box-shadow 0.2s ease-in-out;
+  background-color: #ffffff !important;
+  border: 1px solid #edf2f7 !important;
+  border-radius: 6px !important;
+  padding: 20px !important;
+  margin-bottom: 20px !important;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05) !important;
+  transition: all 0.2s ease-in-out;
 }
 
 .page__content .publication-card:hover {
-  transform: translateY(-2px);
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
-              rgba(0, 0, 0, 0.05) 0px 4px 6px -2px !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05) !important;
 }
 
-/* Force image styles */
+/* Image container */
 .page__content .publication-image {
-  flex: 0 0 275px;
-  position: relative;
+  width: 160px !important;
+  margin-right: 20px !important;
 }
 
 .page__content .publication-image img {
-  width: 100%;
-  height: auto;
-  border-radius: 6px !important;
+  width: 160px !important;
+  height: 120px !important;
   object-fit: cover;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px !important;
+  border: 1px solid #edf2f7 !important;
+  border-radius: 4px !important;
 }
 
-/* Force content styles */
+/* Content section */
 .page__content .publication-content {
   flex: 1;
-  min-width: 0;
+  display: flex !important;
+  flex-direction: column !important;
 }
 
+/* Title */
 .page__content .publication-title {
-  font-size: 1.25rem !important;
+  font-size: 1.1rem !important;
   font-weight: 600 !important;
-  color: #1a1a1a !important;
-  margin: 0 0 12px 0 !important;
+  color: #2d3748 !important;
+  margin: 0 0 8px 0 !important;
   line-height: 1.4 !important;
 }
 
+/* Authors */
 .page__content .publication-authors {
-  font-size: 1rem !important;
+  font-size: 0.95rem !important;
   color: #4a5568 !important;
-  margin-bottom: 12px !important;
-  line-height: 1.6 !important;
+  margin-bottom: 6px !important;
+  line-height: 1.5 !important;
 }
 
 .page__content .author-highlight {
-  font-weight: 600 !important;
-  color: #2563eb !important;
+  color: #2b6cb0 !important;
+  font-weight: 500 !important;
 }
 
+/* Venue */
 .page__content .publication-venue {
-  font-style: italic !important;
-  color: #4a5568 !important;
-  margin-bottom: 16px !important;
-  padding: 4px 0 !important;
-  border-left: 3px solid #2563eb !important;
-  padding-left: 12px !important;
+  font-size: 0.9rem !important;
+  color: #718096 !important;
+  margin-bottom: 12px !important;
+  line-height: 1.4 !important;
 }
 
 .page__content .venue-highlight {
+  color: #4a5568 !important;
   font-weight: 600 !important;
 }
 
-/* Force link styles */
+/* Links */
 .page__content .publication-links {
-  display: flex !important;
-  gap: 12px !important;
-  flex-wrap: wrap !important;
-  margin-top: 16px !important;
+  margin-top: 8px !important;
 }
 
 .page__content .publication-link {
   display: inline-flex !important;
   align-items: center !important;
-  padding: 8px 16px !important;
-  background: #f3f4f6 !important;
-  color: #2563eb !important;
+  padding: 4px 12px !important;
+  font-size: 0.85rem !important;
+  color: #4299e1 !important;
+  background: transparent !important;
+  border: 1px solid #4299e1 !important;
+  border-radius: 3px !important;
   text-decoration: none !important;
-  border-radius: 4px !important;
-  font-size: 0.875rem !important;
-  font-weight: 500 !important;
-  border: 1px solid rgba(37, 99, 235, 0.1) !important;
   transition: all 0.2s ease !important;
+  margin-right: 8px !important;
 }
 
 .page__content .publication-link:hover {
-  background: #e5e7eb !important;
-  color: #1d4ed8 !important;
-  border-color: rgba(37, 99, 235, 0.2) !important;
-  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px !important;
+  background: #4299e1 !important;
+  color: white !important;
   text-decoration: none !important;
 }
 
-/* Mobile responsiveness */
+/* Mobile adjustments */
 @media (max-width: 768px) {
   .page__content .publication-card {
       flex-direction: column !important;
-      padding: 16px !important;
   }
 
   .page__content .publication-image {
-      flex: 0 0 auto !important;
+      width: 100% !important;
+      margin-right: 0 !important;
       margin-bottom: 16px !important;
   }
-  
-  .page__content .publication-links {
-      flex-direction: column !important;
-  }
-  
-  .page__content .publication-link {
+
+  .page__content .publication-image img {
       width: 100% !important;
-      justify-content: center !important;
+      height: 180px !important;
   }
 }
