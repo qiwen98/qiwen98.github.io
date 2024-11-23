@@ -411,148 +411,129 @@
   text-transform: uppercase;
 }
 /* publication css*/
-.publications {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 20px;
-}
-
-.publication-card {
+/* Reset and enforce publication card styles */
+.page__content .publication-card {
   display: flex;
   gap: 24px;
-  background: #ffffff;
-  border: 1px solid #e5e7eb;
-  border-radius: 8px;
-  padding: 24px;
-  margin-bottom: 24px;
-  position: relative; /* Added for shadow effect */
-  
-  /* Enhanced shadow effect */
+  background-color: #ffffff !important; /* Force background color */
+  border: 1px solid #e5e7eb !important; /* Force border */
+  border-radius: 8px !important;
+  padding: 24px !important;
+  margin-bottom: 24px !important;
+  position: relative;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px,
-              rgba(0, 0, 0, 0.05) 0px 1px 2px;
-  
-  /* Improve transition */
+              rgba(0, 0, 0, 0.05) 0px 1px 2px !important;
   transition: transform 0.2s ease-in-out,
               box-shadow 0.2s ease-in-out;
 }
 
-.publication-card:hover {
+.page__content .publication-card:hover {
   transform: translateY(-2px);
-  /* Stronger shadow on hover */
   box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
-              rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+              rgba(0, 0, 0, 0.05) 0px 4px 6px -2px !important;
 }
 
-.publication-image {
+/* Force image styles */
+.page__content .publication-image {
   flex: 0 0 275px;
-  position: relative; /* Added for image shadow */
+  position: relative;
 }
 
-.publication-image img {
+.page__content .publication-image img {
   width: 100%;
   height: auto;
-  border-radius: 6px;
+  border-radius: 6px !important;
   object-fit: cover;
-  /* Add subtle shadow to image */
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px !important;
 }
 
-.publication-content {
+/* Force content styles */
+.page__content .publication-content {
   flex: 1;
-  min-width: 0; /* Prevent content overflow */
+  min-width: 0;
 }
 
-.publication-title {
-  font-size: 1.25rem;
-  font-weight: 600;
-  color: #1a1a1a;
-  margin: 0 0 12px 0;
-  line-height: 1.4;
+.page__content .publication-title {
+  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  color: #1a1a1a !important;
+  margin: 0 0 12px 0 !important;
+  line-height: 1.4 !important;
 }
 
-.publication-authors {
-  font-size: 1rem;
-  color: #4a5568;
-  margin-bottom: 12px;
-  line-height: 1.6;
+.page__content .publication-authors {
+  font-size: 1rem !important;
+  color: #4a5568 !important;
+  margin-bottom: 12px !important;
+  line-height: 1.6 !important;
 }
 
-.author-highlight {
-  font-weight: 600;
-  color: #2563eb;
+.page__content .author-highlight {
+  font-weight: 600 !important;
+  color: #2563eb !important;
 }
 
-.publication-venue {
-  font-style: italic;
-  color: #4a5568;
-  margin-bottom: 16px;
-  padding: 4px 0;
-  border-left: 3px solid #2563eb;
-  padding-left: 12px;
+.page__content .publication-venue {
+  font-style: italic !important;
+  color: #4a5568 !important;
+  margin-bottom: 16px !important;
+  padding: 4px 0 !important;
+  border-left: 3px solid #2563eb !important;
+  padding-left: 12px !important;
 }
 
-.venue-highlight {
-  font-weight: 600;
+.page__content .venue-highlight {
+  font-weight: 600 !important;
 }
 
-.publication-links {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-  margin-top: 16px;
+/* Force link styles */
+.page__content .publication-links {
+  display: flex !important;
+  gap: 12px !important;
+  flex-wrap: wrap !important;
+  margin-top: 16px !important;
 }
 
-.publication-link {
-  display: inline-flex;
-  align-items: center;
-  padding: 8px 16px;
-  background: #f3f4f6;
-  color: #2563eb;
-  text-decoration: none;
-  border-radius: 4px;
-  font-size: 0.875rem;
-  font-weight: 500;
-  border: 1px solid rgba(37, 99, 235, 0.1);
-  transition: all 0.2s ease;
+.page__content .publication-link {
+  display: inline-flex !important;
+  align-items: center !important;
+  padding: 8px 16px !important;
+  background: #f3f4f6 !important;
+  color: #2563eb !important;
+  text-decoration: none !important;
+  border-radius: 4px !important;
+  font-size: 0.875rem !important;
+  font-weight: 500 !important;
+  border: 1px solid rgba(37, 99, 235, 0.1) !important;
+  transition: all 0.2s ease !important;
 }
 
-.publication-link:hover {
-  background: #e5e7eb;
-  color: #1d4ed8;
-  border-color: rgba(37, 99, 235, 0.2);
-  /* Add subtle shadow on link hover */
-  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px;
+.page__content .publication-link:hover {
+  background: #e5e7eb !important;
+  color: #1d4ed8 !important;
+  border-color: rgba(37, 99, 235, 0.2) !important;
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px !important;
+  text-decoration: none !important;
 }
 
-/* Improved mobile responsiveness */
+/* Mobile responsiveness */
 @media (max-width: 768px) {
-  .publication-card {
-      flex-direction: column;
-      padding: 16px;
+  .page__content .publication-card {
+      flex-direction: column !important;
+      padding: 16px !important;
   }
 
-  .publication-image {
-      flex: 0 0 auto;
-      margin-bottom: 16px;
+  .page__content .publication-image {
+      flex: 0 0 auto !important;
+      margin-bottom: 16px !important;
   }
   
-  .publication-links {
-      flex-direction: column;
+  .page__content .publication-links {
+      flex-direction: column !important;
   }
   
-  .publication-link {
-      width: 100%;
-      justify-content: center;
+  .page__content .publication-link {
+      width: 100% !important;
+      justify-content: center !important;
   }
-}
-
-/* Fix for any CSS specificity issues */
-.page__content .publication-card {
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px,
-              rgba(0, 0, 0, 0.05) 0px 1px 2px;
-}
-
-.page__content .publication-card:hover {
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
-              rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 }
