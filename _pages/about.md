@@ -68,18 +68,18 @@ Publications
 
 Academic Profile
 ------
-* I graduated with a Master's degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year). My research interests lie in the general area of Multimedia, particularly in 3D Graphics, AR/VR, and Visual Signal Processing. I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
+I graduated with a Master's degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year). My research interests lie in the general area of Multimedia, particularly in 3D Graphics, AR/VR, and Visual Signal Processing. I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
 > I was awarded **"Distinction"** with top 10% of the best students in the programme (In place of, **1st Class** Honours degree). 
 
-* Here is my Bachelor degree portfolio [Degree Portfolio ](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021) in PDF format.
+Here is my Bachelor degree portfolio [Degree Portfolio ](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021) in PDF format.
 
-* Here is my full [CV ](https://qiwen98.github.io/files/Qi_Wen_CV_With_No_Photo_latest.pdf "CV ")(last update Dec 2022) in PDF format.
+Here is my full [CV ](https://qiwen98.github.io/files/Qi_Wen_CV_With_No_Photo_latest.pdf "CV ")(last update November 2024) in PDF format.
 
-* For more personal achievement, please refer to my linkedin.
+For more personal achievement, please refer to my linkedin.
 
 ## Professioal Services
-* Conference Reviewer: IEEE ISMAR 2024 Journal & Conference Track
-* Conference Reviewer: IEEE VR 2024
+Conference Reviewer: IEEE ISMAR 2024 Journal & Conference Track
+Conference Reviewer: IEEE VR 2024
 
 
 <!-- ## Projects
