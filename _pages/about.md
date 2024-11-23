@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-------
+
 I was born in Johor Bahru, Malaysia, a city blessed with multicultural food, people, and society. This lovely city is closely developed with its neighbor, Singapore. I am a storyteller, researcher, AR/VR enthusiast. I manipulate image pixels directly from u_int8 buffers. 
 
 Publications
-------
+
 
 <div class="publication-card">
         <div class="publication-image">
@@ -71,7 +71,7 @@ Publications
 
 
 Academic Profile
-------
+
 I graduated with a Master's degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year). My research interests lie in the general area of Multimedia, particularly in 3D Graphics, AR/VR, and Visual Signal Processing. I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
 > I was awarded **"Distinction"** with top 10% of the best students in the programme (In place of, **1st Class** Honours degree). 
 
