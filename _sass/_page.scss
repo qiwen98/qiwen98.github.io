@@ -571,8 +571,17 @@
 }
 
 .page__content .intro-image img {
-  max-width: 100% !important;
+  width: 256px !important; /* Changed to 256px */
   height: auto !important;
+  max-width: 100% !important;
   border-radius: 4px !important;
   border: 1px solid #edf2f7 !important;
+}
+
+/* Responsive adjustment for smaller screens */
+@media (max-width: 768px) {
+  .page__content .intro-image img {
+      width: 100% !important;
+      max-width: 256px !important; /* Changed to match new size */
+  }
 }
