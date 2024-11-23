@@ -412,103 +412,147 @@
 }
 /* publication css*/
 .publications {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 .publication-card {
-    display: flex;
-    gap: 24px;
-    background: #ffffff;
-    border: 1px solid #e5e7eb;
-    border-radius: 8px;
-    padding: 24px;
-    margin-bottom: 24px;
-    transition: all 0.3s ease;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  display: flex;
+  gap: 24px;
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 24px;
+  margin-bottom: 24px;
+  position: relative; /* Added for shadow effect */
+  
+  /* Enhanced shadow effect */
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px,
+              rgba(0, 0, 0, 0.05) 0px 1px 2px;
+  
+  /* Improve transition */
+  transition: transform 0.2s ease-in-out,
+              box-shadow 0.2s ease-in-out;
 }
 
 .publication-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transform: translateY(-2px);
+  /* Stronger shadow on hover */
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+              rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
 }
 
 .publication-image {
-    flex: 0 0 275px;
+  flex: 0 0 275px;
+  position: relative; /* Added for image shadow */
 }
 
 .publication-image img {
-    width: 100%;
-    height: auto;
-    border-radius: 4px;
-    object-fit: cover;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+  /* Add subtle shadow to image */
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px;
 }
 
 .publication-content {
-    flex: 1;
+  flex: 1;
+  min-width: 0; /* Prevent content overflow */
 }
 
 .publication-title {
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: #1a1a1a;
-    margin: 0 0 12px 0;
-    line-height: 1.4;
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin: 0 0 12px 0;
+  line-height: 1.4;
 }
 
 .publication-authors {
-    font-size: 1rem;
-    color: #4a5568;
-    margin-bottom: 12px;
-    line-height: 1.6;
+  font-size: 1rem;
+  color: #4a5568;
+  margin-bottom: 12px;
+  line-height: 1.6;
 }
 
 .author-highlight {
-    font-weight: 600;
-    color: #2563eb;
+  font-weight: 600;
+  color: #2563eb;
 }
 
 .publication-venue {
-    font-style: italic;
-    color: #4a5568;
-    margin-bottom: 16px;
+  font-style: italic;
+  color: #4a5568;
+  margin-bottom: 16px;
+  padding: 4px 0;
+  border-left: 3px solid #2563eb;
+  padding-left: 12px;
 }
 
 .venue-highlight {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 .publication-links {
-    display: flex;
-    gap: 12px;
-    flex-wrap: wrap;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 16px;
 }
 
 .publication-link {
-    display: inline-flex;
-    align-items: center;
-    padding: 6px 12px;
-    background: #f3f4f6;
-    color: #2563eb;
-    text-decoration: none;
-    border-radius: 4px;
-    font-size: 0.875rem;
-    transition: all 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  padding: 8px 16px;
+  background: #f3f4f6;
+  color: #2563eb;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  border: 1px solid rgba(37, 99, 235, 0.1);
+  transition: all 0.2s ease;
 }
 
 .publication-link:hover {
-    background: #e5e7eb;
-    color: #1d4ed8;
+  background: #e5e7eb;
+  color: #1d4ed8;
+  border-color: rgba(37, 99, 235, 0.2);
+  /* Add subtle shadow on link hover */
+  box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px;
 }
 
+/* Improved mobile responsiveness */
 @media (max-width: 768px) {
-    .publication-card {
-        flex-direction: column;
-    }
+  .publication-card {
+      flex-direction: column;
+      padding: 16px;
+  }
 
-    .publication-image {
-        flex: 0 0 auto;
-    }
+  .publication-image {
+      flex: 0 0 auto;
+      margin-bottom: 16px;
+  }
+  
+  .publication-links {
+      flex-direction: column;
+  }
+  
+  .publication-link {
+      width: 100%;
+      justify-content: center;
+  }
 }
 
+/* Fix for any CSS specificity issues */
+.page__content .publication-card {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px,
+              rgba(0, 0, 0, 0.05) 0px 1px 2px;
+}
+
+.page__content .publication-card:hover {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px,
+              rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+}
