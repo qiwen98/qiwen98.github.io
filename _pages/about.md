@@ -24,7 +24,7 @@ Publications
                         <strong>Qi Wen Gan</strong>
 						, Sen-Zhe Xu, Fang-Lue Zhang, Song-Hai Zhang<br>
 						<i><strong>(ACM VRST)</strong> Proceedings of the 30th ACM Symposium on Virtual Reality Software and Technology, 2024.</i>
-                        <!-- <a target="_blank" href="https://ieeexplore.ieee.org/document/10536471">[pdf]</a> -->
+                        <a target="_blank" href="https://dl.acm.org/doi/10.1145/3641825.3687733">[link]</a>
                     </p>
                 </div>
             </div>
@@ -68,20 +68,24 @@ Publications
 
 Academic Profile
 ------
-* I graduated with a Master's degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year). My research interests lie in the general area of Multimedia, particularly in 3D Graphics, AR/VR, and Audio Visual Processing (Acoustic & Sound). I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
+* I graduated with a Master's degree from the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/csen/) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Jiang-Tao Wen](https://ieeexplore.ieee.org/author/37291696100) (first year) and Prof. [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/csen/info/1214/4073.htm) (second year). My research interests lie in the general area of Multimedia, particularly in 3D Graphics, AR/VR, and Visual Signal Processing. I received my Bachelor’s Engineering Degree in Digital Media Technology (Hons) from [Xiamen University Malaysia](https://www.xmu.edu.my). My undergraduate research advisors is Prof. [Wei Chuen Yau](https://ieeexplore.ieee.org/author/37667757400)
 > I was awarded **"Distinction"** with top 10% of the best students in the programme (In place of, **1st Class** Honours degree). 
 
 * Here is my Bachelor degree portfolio [Degree Portfolio ](https://qiwen98.github.io/files/Portfolio_2020(mini).pdf "Degree Portfilio ")(last update Jan 2021) in PDF format.
 
-<!-- * Here is my full [CV ](https://qiwen98.github.io/files/Qi_Wen_Résumé_With_Photo.pdf "CV ")(last update Dec 2022) in PDF format. -->
+* Here is my full [CV ](https://qiwen98.github.io/files/Qi_Wen_CV_With_No_Photo_latest.pdf "CV ")(last update Dec 2022) in PDF format.
 
 * For more personal achievement, please refer to my linkedin.
 
-## Projects
+## Professioal Services
+* Conference Reviewer: IEEE ISMAR 2024 Journal & Conference Track
+* Conference Reviewer: IEEE VR 2024
+
+
+<!-- ## Projects
 ### Web IR Search Engine
 [Video Time Machine ⏲](https://share.streamlit.io/qiwen98/webir/main.py/)
 * This is an Youtube-liked Video Search Engine which allow user to query specific words/phrase throughout the video and get the timestamp/s result instantly.
- <!-- Powered by Automatic Speech Regconition (ASR) Deep Learning Model.  -->
 * This project won the **4th place** out of **21 projects** during 2022 Spring Web IR courses final competition. 
 
 ### D Stegano M 3D Mocap Visualizer  
@@ -90,4 +94,4 @@ Academic Profile
 
 ### Fast indoor and outdoor content synthesis in Unreal  
 [Unreal scene generator](https://youtu.be/RDgrF3ZUMnQ)
-* This is an fun side project I was done along with my master's study. The purpose is to study human perception of vision, visual, and graphic in VR.
+* This is an fun side project I was done along with my master's study. The purpose is to study human perception of vision, visual, and graphic in VR. -->
