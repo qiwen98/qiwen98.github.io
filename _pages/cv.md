@@ -27,13 +27,17 @@ Work experience
   * Duties included: Contributing to a Sound Event Detection (SED) function in an musical broadcasting project
   * Supervisor: Professor JiangTao Wen
   
-Skills
+Research interests
 ======
-* Proficient and Experienced in popular Game Engine such as Unreal and Unity
-* Proficient in several 3D industry software:
-  * Autodesk Maya
-  * Autodesk 3D Max
-  * Blender
+Computational optics, augmented and virtual reality, human visual perception, computational imaging, and AI-enabled display systems, with a focus on next-generation wearable displays and perceptually optimized rendering.
+
+⭐⭐⭐⭐⭐ Computational optics for AR
+⭐⭐⭐⭐⭐ AI-assisted display systems
+⭐⭐⭐⭐⭐ Human visual perception
+⭐⭐⭐⭐⭐ Wearable computing
+⭐⭐⭐⭐ Computer vision
+⭐⭐⭐⭐ Computational imaging
+⭐⭐⭐ Traditional rasterization/graphics
 
 Publications
 ======
