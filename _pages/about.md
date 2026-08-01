@@ -83,9 +83,9 @@ Here is my my full [CV ](https://qiwen98.github.io/files/Qi_Wen_CV_With_No_Photo
 
 ## Professional Services
 <div class="publication-card">
-Conference Reviewer: IEEE ISMAR 2024 Journal & Conference Track
+Conference Reviewer: IEEE/ACM ISMAR,IEEE VR
 <br>
-Conference Reviewer: IEEE VR 2024
+Journal Reviewer: Frontier in VR, IEEE TVCG
 </div>
 
 <div class="publication-card intro-card">
