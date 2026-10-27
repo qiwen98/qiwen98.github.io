@@ -95,6 +95,9 @@ Journal Reviewer: Frontier in VR, IEEE TVCG
         <div class="intro-image">
             <img src="./images/cool_idea.JPEG" alt="cool">
         </div>
+        <div class="intro-image">
+            <img src="./images/CAVE.JPEG" alt="cool">
+        </div>
     </div>
 </div>
 <!-- ## Projects
